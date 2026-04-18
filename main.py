@@ -53,7 +53,7 @@ while True:
     
     match choice:
         case '1':
-            city = input('Введите город:\nНапример Moscow')
+            city = input("Введите название города:\n(Подсказка: например, Moscow или Madrid)\n-> ")
             get_weather(city)
         case '2':
             get_space_info()
