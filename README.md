@@ -1,5 +1,7 @@
 # lab 7
 
+## [Задание](https://github.com/ITMOPython-2022/Lab-7)
+
 ## Запуск main.py. Для доп задания - bonus.py
 
 ## Вариант 10
